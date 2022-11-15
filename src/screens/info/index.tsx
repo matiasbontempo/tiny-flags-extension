@@ -18,6 +18,9 @@ const InfoScreen = () => (
       <a href="https://github.com/matiasbontempo/tiny-flags" target="_blank" rel="noreferrer">GitHub Repo</a>
       .
     </StyledParagraph>
+    <StyledParagraph>
+      {`v${APP_VERSION}`}
+    </StyledParagraph>
   </Container>
 );
 

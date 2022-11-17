@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://github.com/matiasbontempo/tiny-flags-extension/compare/v1.1.0...v1.2.0) (2022-11-17)
+
+
+### Features
+
+* removed unused permission ([c985c69](https://github.com/matiasbontempo/tiny-flags-extension/commit/c985c693633bdf09c5a831eea53fb64d3efad469))
+
 ## [1.1.0](https://github.com/matiasbontempo/tiny-flags-extension/compare/v1.0.0...v1.1.0) (2022-11-15)
 
 

@@ -4,6 +4,12 @@
       "preset": "conventionalcommits",
       "infile": "CHANGELOG.md",
       "header": "# Changelog"
+    },
+    "@release-it/bumper": {
+      "out": {
+        "file": "public/manifest.json",
+        "path": "version"
+      }
     }
   },
   "git": {
